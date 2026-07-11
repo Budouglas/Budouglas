@@ -13,9 +13,9 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://shields.io" alt="Gmail"/>
   </a>
 </p>
 
@@ -36,27 +36,27 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ### Backend & Banco de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="MySQL" width="45" height="45"/>
 </p>
 
 ### Frontend & Linguagens Web
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://githubusercontent.com" alt="Angular" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45"/>
 </p>
 
 ### Ecossistema & Ferramentas
 <p align="left">
-  <img src="https://shields.io" alt="Git"/>&nbsp;
-  <img src="https://shields.io" alt="Postman"/>&nbsp;
-  <img src="https://shields.io" alt="IntelliJ"/>&nbsp;
-  <img src="https://shields.io" alt="VS Code"/>
+  <img src="https://shields.io" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Postman"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="IntelliJ"/>&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Eclipse"/>
 </p>
 
 ---
