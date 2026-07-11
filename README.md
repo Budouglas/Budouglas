@@ -60,7 +60,3 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 </p>
 
 ---
-
-## 📈 Código em Movimento
-
-![Snake animation](https://raw.githubusercontent.com/Budouglas/Budouglas/output/github-contribution-grid-snake.svg)
