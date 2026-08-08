@@ -10,7 +10,6 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Gran
 
 Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
-
   <a href="https://www.linkedin.com/in/budouglas" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
@@ -35,8 +34,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 ## Stack Tecnológica
 
 ### Backend & Banco de Dados
-
-![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernatemysql,supabase,mongodb,nodejs)
+![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,supabase,mongodb,nodejs)
 
 ### Frontend & Linguagens Web
 ![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
