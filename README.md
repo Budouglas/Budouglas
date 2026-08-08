@@ -11,7 +11,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Gran
 Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
 
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/budouglas" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
