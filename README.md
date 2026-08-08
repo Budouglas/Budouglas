@@ -36,12 +36,8 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ### Backend & Banco de Dados
 <p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,mysql)](https://skillicons.dev)
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  
-  
-  
-  <img src="[![My Skills](https://skillicons.dev/icons?i=java,spring,node.js,mysql)](https://skillicons.dev)" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://jsdelivr.net" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://jsdelivr.net" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
   <img src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"/>
