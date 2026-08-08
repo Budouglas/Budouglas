@@ -35,13 +35,13 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ### Backend & Banco de Dados
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)
+[My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)
 
 ### Frontend & Linguagens Web
-[![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
+[My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
 
 ### Ecossistema & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=github,postman,idea)
+[My Skills](https://skillicons.dev/icons?i=github,postman,idea)
 
 <a><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
 
