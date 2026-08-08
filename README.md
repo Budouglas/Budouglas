@@ -12,7 +12,7 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="LinkedIn"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail"/>
@@ -36,6 +36,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ### Backend & Banco de Dados
 <p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://jsdelivr.net" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://jsdelivr.net" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://jsdelivr.net" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
