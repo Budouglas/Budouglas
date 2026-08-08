@@ -36,10 +36,10 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ### Backend & Banco de Dados
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="MySQL" width="45" height="45"/>
+  <img src="https://jsdelivr.net" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="MySQL" width="45" height="45"/>
 </p>
 
 ### Frontend & Linguagens Web
