@@ -38,13 +38,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)](https://skillicons.dev)
 
 ### Frontend & Linguagens Web
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Angular" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,html,css,bootstrap)](https://skillicons.dev)
 
 ### Ecossistema & Ferramentas
 <p align="left">
