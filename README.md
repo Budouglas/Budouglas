@@ -44,6 +44,4 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 ### Ecossistema & Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=github,postman,idea)
 
-<a><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
-
 ---
