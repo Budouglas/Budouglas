@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Douglas Bueno
+# Olá! Eu sou o Douglas Bueno
 
 Este é o meu espaço onde transformo lógica em software. Sou um desenvolvedor focado no ecossistema **Java / Spring Boot** para o ecossistema backend, com sólida bagagem em **JavaScript/TypeScript** e desenvolvimento web. 
 
@@ -6,7 +6,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Gran
 
 ---
 
-## 💼 Conecte-se Comigo
+## Conecte-se Comigo
 
 Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
@@ -21,7 +21,7 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 Aqui estão os principais sistemas desenvolvidos para o meu portfólio, focados em cenários e problemas reais de mercado:
 
@@ -32,7 +32,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 ### Backend & Banco de Dados
 <p align="left">
@@ -56,7 +56,6 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
   <img src="https://shields.io" alt="Git"/>&nbsp;&nbsp;
   <img src="https://shields.io" alt="Postman"/>&nbsp;&nbsp;
   <img src="https://shields.io" alt="IntelliJ"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Eclipse"/>
 </p>
 
 ---
