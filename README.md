@@ -10,7 +10,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas** na **Faculdade Gran
 
 Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
-<p align="left">
+
   <a href="https://linkedin.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
@@ -20,7 +20,6 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 </a>
-</p>
 
 ---
 
