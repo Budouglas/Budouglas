@@ -13,10 +13,14 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
+  </a>
+  
+  &nbsp;&nbsp;
+  
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 </a>
+</p>
 
 ---
 
@@ -38,10 +42,10 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)
 
 ### Frontend & Linguagens Web
-[My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
 
 ### Ecossistema & Ferramentas
-[My Skills](https://skillicons.dev/icons?i=github,postman,idea)
+![My Skills](https://skillicons.dev/icons?i=github,postman,idea)
 
 <a><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
 
