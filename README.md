@@ -15,11 +15,9 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   
-  &nbsp;&nbsp;
-  
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
-</a>
+  </a>
 
 ---
 
