@@ -35,7 +35,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 ## Stack Tecnológica
 
 ### Backend & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)
 
 ### Frontend & Linguagens Web
 [![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)](https://skillicons.dev)
