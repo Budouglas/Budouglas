@@ -38,13 +38,9 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)](https://skillicons.dev)
 
 ### Frontend & Linguagens Web
-[![My Skills](https://skillicons.dev/icons?i=angular,javascript,typescript,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)](https://skillicons.dev)
 
 ### Ecossistema & Ferramentas
-<p align="left">
-  <img src="https://shields.io" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Postman"/>&nbsp;&nbsp;
-  <img src="https://shields.io" alt="IntelliJ"/>&nbsp;&nbsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=github,postman,idea,)](https://skillicons.dev)
 
 ---
