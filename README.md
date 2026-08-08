@@ -12,7 +12,7 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="[https://shields.io](https://skillicons.dev/icons?i=all)" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=all" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:d3500bueno@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail"/>
