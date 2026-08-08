@@ -34,12 +34,6 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 ## Stack Tecnológica
 
 ### Backend & Banco de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java)" alt="Java" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Spring" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Node.js" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="MySQL" width="45" height="45"/>
-</p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,supabase,mongodb,nodejs)
 
@@ -47,7 +41,7 @@ API RESTful completa desenvolvida com as melhores práticas de engenharia de sof
 [![My Skills](https://skillicons.dev/icons?i=angular,js,typescript,html,css,bootstrap)
 
 ### Ecossistema & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=github,postman,idea,)]
+[![My Skills](https://skillicons.dev/icons?i=github,postman,idea)
 
 <a><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
 
