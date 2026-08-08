@@ -14,6 +14,9 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
   <a href="https://linkedin.com" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
+  <a href="mailto:d3500bueno@gmail.com" target="_blank">
+   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+</a>
 
 
 <p align="left">
@@ -28,7 +31,7 @@ Para propostas, parcerias ou networking, sinta-se à vontade para me acionar:
 ---
 
 ## Projetos em Destaque
-
+    
 Aqui estão os principais sistemas desenvolvidos para o meu portfólio, focados em cenários e problemas reais de mercado:
 
 ### 📔 [Contact Management API (Agenda de Contatos)](https://github.com)
